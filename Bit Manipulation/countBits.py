@@ -42,5 +42,4 @@ class Solution:
 if __name__ == "__main__":
     n = 5
     sol = Solution()
-    result = sol.countBits(n)
-    print(f"For n = {n}, the number of 1's in binary representation of all integers from 0 to {n} is: {result}")
+    print(f"For n = {n}, the number of 1's in binary representation of all integers from 0 to {n} is: {sol.countBits(n)}")
