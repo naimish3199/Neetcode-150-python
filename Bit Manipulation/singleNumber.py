@@ -1,5 +1,5 @@
-# LeetCode Problem: Single Number
-# https://leetcode.com/problems/single-number/description/
+# LeetCode Problem: 136. Single Number
+# https://leetcode.com/problems/single-number
 
 from typing import List
 
