@@ -4,7 +4,7 @@
 class Solution:
     def reverseBits(self, n: int) -> int:
         """
-        Returns reverse bits of a given 32 bits unsigned integer
+        Returns reverse bits of a given 32 bits unsigned integer 
 
         Approach:
         Extract last bit of n and appends it to the result's leftmost bit. This is done by:
